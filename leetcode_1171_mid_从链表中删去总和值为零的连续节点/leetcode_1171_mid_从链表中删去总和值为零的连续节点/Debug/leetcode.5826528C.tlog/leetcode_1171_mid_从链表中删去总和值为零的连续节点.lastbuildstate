@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v142:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0
+Debug|Win32|E:\暑期实习\leetcode\leetcode-2022Winter\leetcode_1171_mid_从链表中删去总和值为零的连续节点\|
